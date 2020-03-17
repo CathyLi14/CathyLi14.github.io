@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://CathyLi14.github.io</id>
     <title>CathyLi的站</title>
-    <updated>2020-03-17T03:33:10.595Z</updated>
+    <updated>2020-03-17T03:35:41.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://CathyLi14.github.io"/>
     <link rel="self" href="https://CathyLi14.github.io/atom.xml"/>
@@ -11,21 +11,21 @@
     <icon>https://CathyLi14.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, CathyLi的站</rights>
     <entry>
+        <title type="html"><![CDATA[新一天]]></title>
+        <id>https://CathyLi14.github.io/post/xin-yi-tian/</id>
+        <link href="https://CathyLi14.github.io/post/xin-yi-tian/">
+        </link>
+        <updated>2020-03-17T02:47:40.000Z</updated>
+        <content type="html"><![CDATA[<p>3月17日</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[yyyyyyyyyyyy]]></title>
         <id>https://CathyLi14.github.io/post/yyyyyyyyyyyy/</id>
         <link href="https://CathyLi14.github.io/post/yyyyyyyyyyyy/">
         </link>
         <updated>2020-03-17T02:00:13.000Z</updated>
         <content type="html"><![CDATA[<p>yyy</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新文章]]></title>
-        <id>https://CathyLi14.github.io/post/xin-wen-zhang/</id>
-        <link href="https://CathyLi14.github.io/post/xin-wen-zhang/">
-        </link>
-        <updated>2020-03-17T01:48:16.000Z</updated>
-        <content type="html"><![CDATA[<p>里</p>
 ]]></content>
     </entry>
     <entry>
