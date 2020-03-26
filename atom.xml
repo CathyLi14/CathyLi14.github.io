@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://CathyLi14.github.io</id>
     <title>CathyLi的站</title>
-    <updated>2020-03-22T14:16:40.372Z</updated>
+    <updated>2020-03-26T05:05:38.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://CathyLi14.github.io"/>
     <link rel="self" href="https://CathyLi14.github.io/atom.xml"/>
@@ -10,6 +10,62 @@
     <logo>https://CathyLi14.github.io/images/avatar.png</logo>
     <icon>https://CathyLi14.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, CathyLi的站</rights>
+    <entry>
+        <title type="html"><![CDATA[En]]></title>
+        <id>https://CathyLi14.github.io/post/en/</id>
+        <link href="https://CathyLi14.github.io/post/en/">
+        </link>
+        <updated>2020-03-26T04:15:42.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CathyLi的插画学习第七篇]]></title>
+        <id>https://CathyLi14.github.io/post/cathyli-de-cha-hua-xue-xi-di-qi-pian/</id>
+        <link href="https://CathyLi14.github.io/post/cathyli-de-cha-hua-xue-xi-di-qi-pian/">
+        </link>
+        <updated>2020-03-26T02:28:06.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CathyLi的插画学习第六篇]]></title>
+        <id>https://CathyLi14.github.io/post/cathyli-de-cha-hua-xue-xi-di-liu-pian/</id>
+        <link href="https://CathyLi14.github.io/post/cathyli-de-cha-hua-xue-xi-di-liu-pian/">
+        </link>
+        <updated>2020-03-26T02:27:55.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CathyLi的插画学习第五篇]]></title>
+        <id>https://CathyLi14.github.io/post/cathyli-de-cha-hua-xue-xi-di-wu-pian/</id>
+        <link href="https://CathyLi14.github.io/post/cathyli-de-cha-hua-xue-xi-di-wu-pian/">
+        </link>
+        <updated>2020-03-26T02:27:41.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CathyLi的插画学习第四篇]]></title>
+        <id>https://CathyLi14.github.io/post/cathyli-de-cha-hua-xue-xi-di-si-pian/</id>
+        <link href="https://CathyLi14.github.io/post/cathyli-de-cha-hua-xue-xi-di-si-pian/">
+        </link>
+        <updated>2020-03-26T02:27:25.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CathyLi的插画学习第三篇]]></title>
+        <id>https://CathyLi14.github.io/post/cathyli-de-cha-hua-xue-xi-di-san-pian/</id>
+        <link href="https://CathyLi14.github.io/post/cathyli-de-cha-hua-xue-xi-di-san-pian/">
+        </link>
+        <updated>2020-03-26T02:27:13.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CathyLi的插画学习第二篇]]></title>
+        <id>https://CathyLi14.github.io/post/cathyli-de-cha-hua-xue-xi-di-er-pian/</id>
+        <link href="https://CathyLi14.github.io/post/cathyli-de-cha-hua-xue-xi-di-er-pian/">
+        </link>
+        <updated>2020-03-26T02:26:49.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CathyLi的插画学习第一篇]]></title>
+        <id>https://CathyLi14.github.io/post/i/</id>
+        <link href="https://CathyLi14.github.io/post/i/">
+        </link>
+        <updated>2020-03-25T12:07:35.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[岁寒松柏，长毋相忘]]></title>
         <id>https://CathyLi14.github.io/post/sui-han-song-bo-chang-wu-xiang-wang/</id>
@@ -23,60 +79,5 @@
         <link href="https://CathyLi14.github.io/post/shi-jing-qin-feng-wu-yi/">
         </link>
         <updated>2020-03-22T13:26:07.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<pre><code>  岂曰无衣？与子同袍。
-</code></pre>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<pre><code>  岂曰无衣？与子同袍。
-</code></pre>
-</blockquote>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[绣袈裟衣缘]]></title>
-        <id>https://CathyLi14.github.io/post/jia-sha/</id>
-        <link href="https://CathyLi14.github.io/post/jia-sha/">
-        </link>
-        <updated>2020-03-22T12:39:42.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<pre><code>  山川异域，风月同天
-</code></pre>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<pre><code>  山川异域，风月同天
-</code></pre>
-</blockquote>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://CathyLi14.github.io/post/1/</id>
-        <link href="https://CathyLi14.github.io/post/1/">
-        </link>
-        <updated>2020-03-17T04:10:17.000Z</updated>
-        <summary type="html"><![CDATA[<p>滕王阁序1<br>
-豫章故郡，洪都新府2。星分翼轸，地接衡庐3。襟三江而带五湖4，<br>
-控蛮荆而引瓯越5。物华天宝，龙光射牛斗之墟6；人杰地灵，徐孺下陈蕃之榻7。雄州雾列8，俊采星驰9。台隍枕夷夏之交10，宾主尽东南之美11。都督阎公之雅望，棨戟遥临；宇文新州之懿范，襜帷暂驻12。十旬休假13，胜友如云；千里逢迎14，高朋满座。腾蛟起凤，孟学士之词宗15；紫电青霜，王将军之武库16。家君作宰，路出名区；童子何知，躬逢胜饯17。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>滕王阁序1<br>
-豫章故郡，洪都新府2。星分翼轸，地接衡庐3。襟三江而带五湖4，<br>
-控蛮荆而引瓯越5。物华天宝，龙光射牛斗之墟6；人杰地灵，徐孺下陈蕃之榻7。雄州雾列8，俊采星驰9。台隍枕夷夏之交10，宾主尽东南之美11。都督阎公之雅望，棨戟遥临；宇文新州之懿范，襜帷暂驻12。十旬休假13，胜友如云；千里逢迎14，高朋满座。腾蛟起凤，孟学士之词宗15；紫电青霜，王将军之武库16。家君作宰，路出名区；童子何知，躬逢胜饯17。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://CathyLi14.github.io/post/hello-gridea/</id>
-        <link href="https://CathyLi14.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
     </entry>
 </feed>
